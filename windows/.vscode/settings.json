@@ -1,6 +1,6 @@
 {
   "window.zoomLevel": 1.4,
-  "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+  //"workbench.colorTheme": "Aura Dracula Spirit (Soft)",
   "workbench.iconTheme": "material-icon-theme",
   "material-icon-theme.hidesExplorerArrows": true,
   "workbench.tree.renderIndentGuides": "none",
@@ -41,7 +41,7 @@
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
   "explorer.compactFolders": false,
-  "git.decorations.enabled": false,
+  //"git.decorations.enabled": false,
   "scm.diffDecorations": "none",
   "files.insertFinalNewline": true,
   "extensions.ignoreRecommendations": true,
